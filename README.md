@@ -87,7 +87,7 @@ https://www.youtube.com/channel/UCb7PaTJYueRh6Y5rQ7h3U3w/videos
 
 http://www.bayareadlschool.org/schedule
 
-20 часов видео от ведущих специалистов, включая Andrej Karpathyг и Andrew Ng
+20 часов видео от ведущих специалистов, включая Andrej Karpathy и Andrew Ng
 
 <hr />
 
