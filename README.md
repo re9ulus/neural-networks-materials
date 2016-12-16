@@ -95,7 +95,7 @@ http://www.bayareadlschool.org/schedule
 
 http://info.usherbrooke.ca/hlarochelle/neural_networks/description.html
 
-Graduate курс по нйеронным сетям.
+Graduate курс по нейронным сетям.
 
 <hr />
 
