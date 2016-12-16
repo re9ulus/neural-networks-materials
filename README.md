@@ -4,7 +4,7 @@
 
 # Материалы для изучения нейронных сетей
 
-*Neural Networks and Deep Learning*
+### *Neural Networks and Deep Learning*
 
 http://neuralnetworksanddeeplearning.com
 
@@ -14,13 +14,13 @@ http://neuralnetworksanddeeplearning.com
 
 <hr />
 
-*DMIA ( по нейронкам лекции 6-7)*
+### *DMIA ( по нейронкам лекции 6-7)*
 
-Видео
+##### Видео
 
 https://www.youtube.com/channel/UCop3CelRVvrchG5lsPyxvHg/videos
 
-Задачи
+##### Задачи
 
 https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016/tree/master/trends
 
@@ -30,18 +30,18 @@ https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016/tree/master/trends
 
 <hr />
 
-*Легендарный CS231n*
+### *Легендарный CS231n*
 
-Видео
+##### Видео
 
 https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
 
-Материалы
+##### Материалы
 
 http://cs231n.stanford.edu
 
 Очень хороший курс по компьютерному зрению, в котором досконально разобран bleeding edge нейронных сетей.
-Автор курса, Andrej Karpathyг, уру сверточных нейронных сетей. 
+Автор курса, Andrej Karpathy, гуру сверточных нейронных сетей. 
 у него офигенный блог
 
 http://karpathy.github.io
@@ -52,13 +52,13 @@ https://twitter.com/karpathy?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eaut
 
 <hr />
 
-*Второй курс Стенфорда по сетям, обработка естественных языков*
+### *Второй курс Стенфорда по сетям, обработка естественных языков*
 
-Видео
+##### Видео
 
 https://www.youtube.com/playlist?list=PLmImxx8Char8dxWB9LRqdpCTmewaml96q
 
-Материалы
+##### Материалы
 
 http://cs224d.stanford.edu
 
@@ -66,7 +66,7 @@ http://cs224d.stanford.edu
 
 <hr />
 
-*DeepLearning book*
+### *DeepLearning book*
 
 http://www.deeplearningbook.org
 
@@ -77,13 +77,13 @@ https://github.com/HFTrader/DeepLearningBook (ссылка на PDF)
 
 <hr />
 
-*BayArea School*
+### *BayArea School*
 
-Видео
+##### Видео
 
 https://www.youtube.com/channel/UCb7PaTJYueRh6Y5rQ7h3U3w/videos
 
-Материалы
+##### Материалы
 
 http://www.bayareadlschool.org/schedule
 
@@ -91,7 +91,7 @@ http://www.bayareadlschool.org/schedule
 
 <hr />
 
-*Лекции PhD из Франции*
+### *Лекции PhD из Франции*
 
 http://info.usherbrooke.ca/hlarochelle/neural_networks/description.html
 
@@ -99,7 +99,7 @@ Graduate курс по нйеронным сетям.
 
 <hr />
 
-*Курс на степике*
+### *Курс на степике*
 
 https://stepik.org/course/Нейронные-сети-401
 
@@ -108,7 +108,7 @@ https://stepik.org/course/Нейронные-сети-401
 
 <hr />
 
-*Курс Хинтона*
+### *Курс Хинтона*
 
 https://www.coursera.org/learn/neural-networks
 
@@ -116,7 +116,7 @@ https://www.coursera.org/learn/neural-networks
 
 <hr />
 
-*Курс Udacity и Google по TensorFlow*
+### *Курс Udacity и Google по TensorFlow*
 
 https://www.udacity.com/course/deep-learning--ud730
 
@@ -124,13 +124,13 @@ https://www.udacity.com/course/deep-learning--ud730
 
 <hr />
 
-*Сборник научных статей по нейронным сетям*
+### *Сборник научных статей по нейронным сетям*
 
 https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
 
 <hr />
 
-*Репозитории для желающих почитать исходники:*
+### *Репозитории для желающих почитать исходники:*
 
 - https://github.com/tensorflow/tensorflow
 - https://github.com/Theano/Theano
